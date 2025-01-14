@@ -1,0 +1,10 @@
+{
+  "accentColor": "#7baf3c",
+  "theme": "system",
+  "baseFontSize": 17,
+  "enabledCssSnippets": [
+    "styles"
+  ],
+  "cssTheme": "",
+  "textFontFamily": "Times New Roman,Cascadia Mono"
+}

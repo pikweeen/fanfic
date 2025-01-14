@@ -1,0 +1,58 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": true,
+  "colorGroups": [
+    {
+      "query": "path:\"Character exploration\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 13647541
+      }
+    },
+    {
+      "query": "path:\"Plot development\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 4109932
+      }
+    },
+    {
+      "query": "path:\"Specific scenes\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 11657298
+      }
+    },
+    {
+      "query": "path:resources  ",
+      "color": {
+        "a": 1,
+        "rgb": 6319995
+      }
+    },
+    {
+      "query": "path:\"World building\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 2011904
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": false,
+  "textFadeMultiplier": -0.2,
+  "nodeSizeMultiplier": 0.929427083333333,
+  "lineSizeMultiplier": 0.725260416666667,
+  "collapse-forces": false,
+  "centerStrength": 0.557291666666667,
+  "repelStrength": 10.7291666666667,
+  "linkStrength": 0.427083333333333,
+  "linkDistance": 241,
+  "scale": 0.6780252644037336,
+  "close": true
+}
