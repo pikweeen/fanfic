@@ -1,10 +1,10 @@
 {
   "accentColor": "#7baf3c",
-  "theme": "system",
+  "theme": "obsidian",
   "baseFontSize": 17,
   "enabledCssSnippets": [
     "styles"
   ],
-  "cssTheme": "",
+  "cssTheme": "Obsidian Nord",
   "textFontFamily": "Times New Roman,Cascadia Mono"
 }
